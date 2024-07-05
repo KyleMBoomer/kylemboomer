@@ -8,5 +8,5 @@ I'm Kyle, a software dev with a musical mind for positive impact. My background 
 - 📫 How to reach me: kylemboomer@gmail.com
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) https://www.linkedin.com/in/kylemboomer/
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I ran a virtual music lessons business for twelve years. You may see some of mine and my students' performances from our Recitals here: https://www.youtube.com/@sonictutelage
+- ⚡ Fun fact: I ran a virtual music lessons business for twelve years. You may see some performances by myself and my students from our Recitals [here](https://www.youtube.com/@sonictutelage)
 
